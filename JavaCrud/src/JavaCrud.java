@@ -207,6 +207,11 @@ public class JavaCrud {
 		});
 		btnClear.setBounds(180, 274, 89, 23);
 		frame.getContentPane().add(btnClear);
+		
+		JLabel lblNewLabel_4 = new JLabel("REGISTRATION FORM");
+		lblNewLabel_4.setFont(new Font("Tahoma", Font.BOLD, 30));
+		lblNewLabel_4.setBounds(104, 0, 430, 53);
+		frame.getContentPane().add(lblNewLabel_4);
 		frame.setBounds(100, 100, 722, 446);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 	}
