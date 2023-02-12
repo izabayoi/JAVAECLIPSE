@@ -209,6 +209,7 @@ public class JavaCrud {
 		frame.getContentPane().add(btnClear);
 		
 		JLabel lblNewLabel_4 = new JLabel("REGISTRATION FORM");
+		lblNewLabel_4.setBackground(new Color(128, 255, 128));
 		lblNewLabel_4.setFont(new Font("Tahoma", Font.BOLD, 30));
 		lblNewLabel_4.setBounds(104, 0, 430, 53);
 		frame.getContentPane().add(lblNewLabel_4);
