@@ -1,2 +1,2 @@
 # JAVAECLIPSE
-https://github.com/izabayoi/JAVAECLIPSE/blob/master/JavaCrud/bin/JavaCrud.class
+https://izabayoi.github.io/JAVAECLIPSE/
